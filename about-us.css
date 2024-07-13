@@ -1,0 +1,961 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.about-us-mpp {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #eeeeee;
+}
+.about-us-mpp .auto-group-ttep-K5e {
+  margin-bottom: 79.4rem;
+  width: 100%;
+  height: 189.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .links-to-their-official-weather-service-websites-and-tourism-board-organization-are-also-provided-whenever-available-weather-icons-are-shown-alongside-worded-forecasts-in-this-version-to-facilitate-visual-inspection-FEC {
+  width: 113.7rem;
+  height: 81.9rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 107.2rem;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.199000001;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv {
+  width: 144rem;
+  height: 135.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 13.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-182-Jbn {
+  width: 144rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #193030;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-183-33a {
+  width: 144rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-184-9MW {
+  width: 11.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 68.6rem;
+  top: 3.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-185-1uW {
+  width: 11.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 83.9rem;
+  top: 3.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-186-7xY {
+  width: 11.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 99.2rem;
+  top: 3.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-187-1o2 {
+  width: 11.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 114.5rem;
+  top: 3.2rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .contact-86x {
+  width: 9.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 115.8rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1990000407;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .home-Rrk {
+  width: 6.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 71.4rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1990000407;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .cosmos-w4Q {
+  width: 8.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1990000407;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .travel-z2g {
+  width: 8.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1990000407;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .frame-14-tdr {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 3.6rem;
+  overflow: hidden;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .group-46-yJc .rectangle-188-d5e {
+  width: 34.2rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt {
+  margin: 0rem 12.5rem 0rem 16.8rem;
+  width: calc(100% - 29.3rem);
+  height: 118.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC {
+  width: 102rem;
+  height: 47rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.199000001;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.199000001;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC-sub-1 {
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC .about-us-this-project-on-world-city-forecasts-is-to-explore-the-wider-exchange-and-availability-of-official-weather-information-on-the-internet-in-view-of-this-cloudmist-is-established-as-a-centralized-source-on-the-internet-for-media-to-access-official-weather-information-issued-by-national-meteorological-and-hydrological-services-nmhss-efficiently-and-effectively-the-website-is-developed-and-maintained-by-cloudmistinc-rUC-sub-2 {
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.199000001;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .this-global-website-presents-official-weather-observations-weather-forecasts-and-climatological-information-for-selected-cities-supplied-by-nmhss-worldwide-the-nmhss-make-official-weather-observations-in-their-respective-countries-EQC {
+  width: 30.7rem;
+  height: 81.9rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 36.6rem;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.199000001;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .line-10-b8G {
+  width: 91.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 6.5rem;
+  background-color: #000000;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU {
+  width: 84.6rem;
+  height: 62rem;
+  position: absolute;
+  left: 30.1rem;
+  top: 28rem;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .floor-Fic {
+  width: 82.7712rem;
+  height: 32.3127rem;
+  position: absolute;
+  left: 1.8288rem;
+  top: 29.6873rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .shadows-NoE {
+  width: 68.5248rem;
+  height: 22.892rem;
+  position: absolute;
+  left: 7.0936rem;
+  top: 31.4807rem;
+  display: flex;
+  align-items: flex-end;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .shadows-NoE .shadow-MYg {
+  margin: 0rem 0.43rem 4.192rem 0rem;
+  width: 43.6458rem;
+  height: 18.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .shadows-NoE .shadow-fJU {
+  width: 24.449rem;
+  height: 10.4733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .plants-mcQ {
+  width: 8.7578rem;
+  height: 11.9823rem;
+  position: absolute;
+  left: 68.2304rem;
+  top: 36.8525rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .clouds-VoJ {
+  width: 19.0999rem;
+  height: 7.9211rem;
+  position: absolute;
+  left: 7.1553rem;
+  top: 7.6446rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC {
+  width: 51.0277rem;
+  height: 46.1181rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-JEx {
+  width: 1.7874rem;
+  height: 21.738rem;
+  position: absolute;
+  left: 6.3369rem;
+  top: 24.3211rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-RaU {
+  width: 1.7874rem;
+  height: 21.738rem;
+  position: absolute;
+  left: 6.3369rem;
+  top: 24.3211rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-ZAt {
+  width: 43.3406rem;
+  height: 39.6121rem;
+  position: absolute;
+  left: 7.6869rem;
+  top: 6.506rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .group-TGG {
+  opacity: 0.7;
+  width: 43.3406rem;
+  height: 39.6121rem;
+  position: absolute;
+  left: 7.6871rem;
+  top: 6.506rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-a5z {
+  width: 44.0649rem;
+  height: 18.9642rem;
+  position: absolute;
+  left: 6.6153rem;
+  top: 5.9366rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .group-iT6 {
+  opacity: 0.8;
+  width: 44.0649rem;
+  height: 18.9642rem;
+  position: absolute;
+  left: 6.6151rem;
+  top: 5.9366rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-rJQ {
+  opacity: 0.2;
+  width: 17.2858rem;
+  height: 12.8256rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-BrU {
+  width: 1.364rem;
+  height: 1.7834rem;
+  position: absolute;
+  left: 9.1649rem;
+  top: 24.9775rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-XQY {
+  width: 3.4036rem;
+  height: 1.7475rem;
+  position: absolute;
+  left: 11.1994rem;
+  top: 23.4914rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-rhi {
+  width: 3.4036rem;
+  height: 1.7475rem;
+  position: absolute;
+  left: 11.1994rem;
+  top: 23.4914rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-PxY {
+  width: 2.4822rem;
+  height: 1.2537rem;
+  position: absolute;
+  left: 11.2081rem;
+  top: 24.7251rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-8v8 {
+  width: 5.8979rem;
+  height: 4.1907rem;
+  position: absolute;
+  left: 18.1725rem;
+  top: 30.3187rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-ssi {
+  width: 2.2558rem;
+  height: 2.1778rem;
+  position: absolute;
+  left: 18.7585rem;
+  top: 30.4337rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-zBe {
+  width: 16.7135rem;
+  height: 14.1756rem;
+  position: absolute;
+  left: 9.8096rem;
+  top: 19.0651rem;
+  font-size: 4.4708rem;
+  font-weight: 700;
+  line-height: 1.2102272645;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-UMi {
+  width: 15.8841rem;
+  height: 6.8631rem;
+  position: absolute;
+  left: 9.0703rem;
+  top: 27.5375rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-bhE {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 13.6522rem;
+  top: 32.0763rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-uC8 {
+  width: 2.5369rem;
+  height: 2.2547rem;
+  position: absolute;
+  left: 13.6522rem;
+  top: 34.0623rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .item-75-Qua {
+  width: 2.5369rem;
+  height: 2.383rem;
+  position: absolute;
+  left: 13.9012rem;
+  top: 36.2725rem;
+  font-size: 0.8005rem;
+  font-weight: 700;
+  line-height: 1.2102272348;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .km-h-KWk {
+  width: 4.7753rem;
+  height: 3.3539rem;
+  position: absolute;
+  left: 19.4396rem;
+  top: 32.9212rem;
+  font-size: 0.8005rem;
+  font-weight: 700;
+  line-height: 1.2102272348;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .max-2g4 {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 10.6618rem;
+  top: 33.3575rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .min-W5S {
+  width: 2.2384rem;
+  height: 2.1253rem;
+  position: absolute;
+  left: 10.6618rem;
+  top: 35.473rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-1H6 {
+  width: 2.4292rem;
+  height: 1.7253rem;
+  position: absolute;
+  left: 10.6446rem;
+  top: 38.0032rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-kEg {
+  width: 0.2047rem;
+  height: 0.353rem;
+  position: absolute;
+  left: 11.3077rem;
+  top: 39.643rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-fMe {
+  width: 0.2004rem;
+  height: 0.3521rem;
+  position: absolute;
+  left: 11.9257rem;
+  top: 39.3804rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-ajW {
+  width: 0.2038rem;
+  height: 0.349rem;
+  position: absolute;
+  left: 12.534rem;
+  top: 39.1205rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .group-KBJ {
+  opacity: 0.1;
+  width: 2.4292rem;
+  height: 1.9929rem;
+  position: absolute;
+  left: 10.6446rem;
+  top: 38.0031rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-dxg {
+  width: 1.3852rem;
+  height: 1.2983rem;
+  position: absolute;
+  left: 17.2506rem;
+  top: 35.6982rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-BDW {
+  width: 0.7155rem;
+  height: 0.8024rem;
+  position: absolute;
+  left: 17.5122rem;
+  top: 35.9505rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-uvC {
+  width: 0.1279rem;
+  height: 0.2732rem;
+  position: absolute;
+  left: 17.8769rem;
+  top: 35.4062rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-pXN {
+  width: 0.1279rem;
+  height: 0.2706rem;
+  position: absolute;
+  left: 17.8769rem;
+  top: 37.0184rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-9Ze {
+  width: 0.3377rem;
+  height: 0.1851rem;
+  position: absolute;
+  left: 18.7113rem;
+  top: 35.8547rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-6Dz {
+  width: 0.3365rem;
+  height: 0.185rem;
+  position: absolute;
+  left: 16.8339rem;
+  top: 36.6577rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .group-dDv {
+  opacity: 0.1;
+  width: 2.2151rem;
+  height: 1.8828rem;
+  position: absolute;
+  left: 16.8339rem;
+  top: 35.4062rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .friday-xGC {
+  width: 10.3557rem;
+  height: 7.7253rem;
+  position: absolute;
+  left: 9.9134rem;
+  top: 36.4981rem;
+  font-size: 1.6011rem;
+  font-weight: 700;
+  line-height: 1.2102271983;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .friday-xGC .friday-xGC-sub-0 {
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .friday-xGC .friday-xGC-sub-1 {
+  font-size: 2.1313rem;
+  font-weight: 700;
+  line-height: 0.9091683111;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-72c {
+  width: 6.7294rem;
+  height: 21.5788rem;
+  position: absolute;
+  left: 26.3539rem;
+  top: 15.3778rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-3S4 {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 29.8682rem;
+  top: 28.3325rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-6fE {
+  width: 2.5369rem;
+  height: 2.2547rem;
+  position: absolute;
+  left: 29.8682rem;
+  top: 30.3185rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .max-1XJ {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 27.3427rem;
+  top: 29.4137rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .min-wA4 {
+  width: 2.2384rem;
+  height: 2.1253rem;
+  position: absolute;
+  left: 27.3427rem;
+  top: 31.5304rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-FRe {
+  width: 5.2341rem;
+  height: 3.7154rem;
+  position: absolute;
+  left: 27.1059rem;
+  top: 23.2442rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-z8L {
+  width: 0.4405rem;
+  height: 0.7613rem;
+  position: absolute;
+  left: 28.5132rem;
+  top: 26.7695rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-KgQ {
+  width: 0.4405rem;
+  height: 0.7609rem;
+  position: absolute;
+  left: 29.8355rem;
+  top: 26.2043rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-GLk {
+  width: 0.4392rem;
+  height: 0.7577rem;
+  position: absolute;
+  left: 31.154rem;
+  top: 25.6451rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .sat-1ZE {
+  width: 6.9038rem;
+  height: 6.7748rem;
+  position: absolute;
+  left: 27.5673rem;
+  top: 16.4951rem;
+  font-size: 1.865rem;
+  font-weight: 700;
+  line-height: 1.2102272518;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .sat-1ZE .sat-1ZE-sub-0 {
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .sat-1ZE .sat-1ZE-sub-1 {
+  font-size: 2.4826rem;
+  font-weight: 700;
+  line-height: 0.9091683513;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-w5W {
+  width: 6.7294rem;
+  height: 21.5769rem;
+  position: absolute;
+  left: 34.5802rem;
+  top: 11.8534rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-sjr {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 38.0927rem;
+  top: 24.808rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-Py6 {
+  width: 2.5369rem;
+  height: 2.2547rem;
+  position: absolute;
+  left: 38.0944rem;
+  top: 26.794rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .max-iEg {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 35.5689rem;
+  top: 25.8905rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .min-dcY {
+  width: 2.2384rem;
+  height: 2.1253rem;
+  position: absolute;
+  left: 35.5689rem;
+  top: 28.006rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-M2k {
+  width: 5.2376rem;
+  height: 3.7166rem;
+  position: absolute;
+  left: 35.3235rem;
+  top: 20.3572rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .sun-Ut4 {
+  width: 6.0033rem;
+  height: 5.4952rem;
+  position: absolute;
+  left: 35.5654rem;
+  top: 13.4461rem;
+  font-size: 1.865rem;
+  font-weight: 700;
+  line-height: 1.2102272518;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-kag {
+  width: 2.038rem;
+  height: 1.9662rem;
+  position: absolute;
+  left: 35.8489rem;
+  top: 20.4529rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-5N4 {
+  width: 6.7294rem;
+  height: 21.5783rem;
+  position: absolute;
+  left: 42.8048rem;
+  top: 8.3315rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-22Q {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 46.3189rem;
+  top: 21.2836rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .c-LHz {
+  width: 2.5369rem;
+  height: 2.2547rem;
+  position: absolute;
+  left: 46.3189rem;
+  top: 23.2696rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .max-3iC {
+  width: 2.6861rem;
+  height: 2.3194rem;
+  position: absolute;
+  left: 43.7935rem;
+  top: 22.366rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .min-ZAk {
+  width: 2.2384rem;
+  height: 2.1253rem;
+  position: absolute;
+  left: 43.7935rem;
+  top: 24.4815rem;
+  font-size: 0.7392rem;
+  font-weight: 700;
+  line-height: 1.2102272903;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .mon-shE {
+  width: 6.9038rem;
+  height: 5.877rem;
+  position: absolute;
+  left: 43.638rem;
+  top: 9.6193rem;
+  font-size: 1.865rem;
+  font-weight: 700;
+  line-height: 1.2102272518;
+  color: #332446;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .weather-DzC .vector-bNL {
+  width: 2.9904rem;
+  height: 2.8688rem;
+  position: absolute;
+  left: 44.6733rem;
+  top: 16.8865rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-ttep-K5e .group-60-Ebv .auto-group-fads-9Jt .weather-amico-jEU .character-Vic {
+  width: 36.2161rem;
+  height: 45.6552rem;
+  position: absolute;
+  left: 47.5489rem;
+  top: 6.1293rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-mpp .auto-group-iej6-nxc {
+  width: 100%;
+  height: 12.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(5, 0, 12, 0.8999999762);
+  flex-shrink: 0;
+}
